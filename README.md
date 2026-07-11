@@ -12,7 +12,6 @@
 
 ### 📁 Featured Projects
 - **[MyCareerTree](https://github.com/Vanipisini523/My-Career-Tree):** An AI-driven platform designed to provide career guidance using a three-tier architecture and tree-based navigation.
-- **Bone Fracture Detection:** An image processing and deep learning project to detect fractures from medical imagery.
 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.shields.shields.shields.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
