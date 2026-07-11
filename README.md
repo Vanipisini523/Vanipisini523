@@ -7,8 +7,8 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL (MySQL)
-- **Tools & Platforms:** Git, GitHub, AWS, Azure, Google Cloud
-- **Interests:** Machine Learning, Deep Learning, Cloud Architectures (IaaS, PaaS, SaaS)
+- **Tools & Platforms:** Git, GitHub
+- **Interests:** Machine Learning, Deep Learning
 
 ### 📁 Featured Projects
 - **[MyCareerTree](https://github.com/Vanipisini523/My-Career-Tree):** An AI-driven platform designed to provide career guidance using a three-tier architecture and tree-based navigation.
