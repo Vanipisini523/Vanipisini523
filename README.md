@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Vani Pisini! 👋
 
-<!--
-**Vanipisini523/Vanipisini523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 B.Tech Student in Computer Science and Engineering (2022–2026)
+- 📊 Passionate about Data Science and Data Analytics
+- 🛠️ Currently building and optimizing data-driven solutions
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL (MySQL)
+- **Tools & Platforms:** Git, GitHub, AWS, Azure, Google Cloud
+- **Interests:** Machine Learning, Deep Learning, Cloud Architectures (IaaS, PaaS, SaaS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Projects
+- **[MyCareerTree](https://github.com/Vanipisini523/My-Career-Tree):** An AI-driven platform designed to provide career guidance using a three-tier architecture and tree-based navigation.
+- **Bone Fracture Detection:** An image processing and deep learning project to detect fractures from medical imagery.
+
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.shields.shields.shields.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
